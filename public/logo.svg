@@ -1,0 +1,9 @@
+<svg width="270" height="54" viewBox="0 0 270 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M265.19 33V28.644H269.326V33H265.19Z" fill="#F13024"/>
+  
+  <!-- Centered text with different colors -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="30" fill="black" text-anchor="middle" dominant-baseline="middle" font-weight="bold">
+    <tspan fill="White">Damodhar</tspan>
+    <tspan fill="Red">Reddy</tspan>
+  </text>
+</svg>
