@@ -31,8 +31,8 @@ const Work = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              Built a scalable web application with a focus on delivering a seamless user experience and optimized backend performance. 
+                Improved application efficiency and ensured robust deployment processes
             </motion.p>
           </div>
 
