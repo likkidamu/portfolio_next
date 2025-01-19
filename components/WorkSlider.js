@@ -7,18 +7,18 @@ export const workSlider = {
           title: 'title',
           path: '/thumb1.jpg',
         },
-        {
-          title: 'title',
-          path: '/thumb2.jpg',
-        },
+        // {
+        //   title: 'title',
+        //   path: '/thumb2.jpg',
+        // },
         {
           title: 'title',
           path: '/thumb3.jpg',
         },
-        {
-          title: 'title',
-          path: '/thumb4.jpg',
-        },
+        // {
+        //   title: 'title',
+        //   path: '/thumb4.jpg',
+        // },
       ],
     },
     {
@@ -27,18 +27,18 @@ export const workSlider = {
           title: 'title',
           path: '/thumb4.jpg',
         },
-        {
-          title: 'title',
-          path: '/thumb1.jpg',
-        },
+        // {
+        //   title: 'title',
+        //   path: '/thumb1.jpg',
+        // },
         {
           title: 'title',
           path: '/thumb2.jpg',
         },
-        {
-          title: 'title',
-          path: '/thumb3.jpg',
-        },
+        // {
+        //   title: 'title',
+        //   path: '/thumb3.jpg',
+        // },
       ],
     },
   ],
