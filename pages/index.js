@@ -35,7 +35,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-           I am a Full Stack Developer with 4 years of experience in developing and maintaining web applications. 
+           I am a Full Stack Developer with having experience in developing and maintaining web applications. 
            Throughout my career, I have worked with prestigious firms and contributed to building robust, 
            scalable, and user-friendly solutions. My expertise spans both frontend and backend development, 
            allowing me to deliver comprehensive solutions that meet the needs of clients and end users.
